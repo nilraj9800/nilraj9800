@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nilraj9800
 - 👀 I’m interested in developing application with python
-- 🌱 I’m currently learning Javascript and Reacr
+- 🌱 I’m currently learning Javascript and React
 - 💞️ I’m looking to collaborate on ...
 - 📫 1122nilraj@gmail.com
 
